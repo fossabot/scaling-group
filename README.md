@@ -1,5 +1,6 @@
 # Scaling-Group
 [![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://knative.slack.com)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fknative-extensions%2Fscaling-group.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fknative-extensions%2Fscaling-group?ref=badge_shield)
 
 A standalone plugin component for Knative to prewarm the chained services, and accelerate service response, including scaling from zero and non-zero.
 
@@ -15,3 +16,7 @@ TBD
 
 ## Performers test
 TBD
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fknative-extensions%2Fscaling-group.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fknative-extensions%2Fscaling-group?ref=badge_large)
